@@ -1,4 +1,4 @@
-### Ola mundo ! Tudo bem ? meu é Leandro Bem Vindo ao meu perfio . <img align="center" alt="LEANDRO-pikachu" height="30" width="40" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif">
+### Ola mundo ! Tudo bem ? meu é Leandro Bem Vindo ao meu perfil . <img align="center" alt="LEANDRO-pikachu" height="30" width="40" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif">
 
 <!--
 **JESUS-LEANDRO/JESUS-LEANDRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
